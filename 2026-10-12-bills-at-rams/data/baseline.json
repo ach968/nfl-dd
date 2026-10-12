@@ -1,0 +1,488 @@
+{
+  "BUF": {
+    "season": {
+      "posteam": {
+        "n": 235,
+        "epa": 0.19055966090100104,
+        "success": 0.4765957446808511,
+        "early_n": 185,
+        "early_epa": 0.12641120201348,
+        "early_success": 0.4540540540540541,
+        "explosive_rate": 0.14042553191489363,
+        "dropbacks": 138,
+        "pass_epa": 0.2676764376784391,
+        "sack_rate": 0.06521739130434782,
+        "qb_hit_rate": 0.15217391304347827,
+        "rush_n": 97,
+        "rush_epa": 0.0808471331145427,
+        "rush_success": 0.5257731958762887,
+        "neutral_early_n": 95,
+        "neutral_early_proe": 0.49575162561316205
+      },
+      "defteam": {
+        "n": 271,
+        "epa": 0.10564987410067274,
+        "success": 0.4833948339483395,
+        "early_n": 210,
+        "early_epa": 0.12435058639468635,
+        "early_success": 0.4857142857142857,
+        "explosive_rate": 0.1033210332103321,
+        "dropbacks": 167,
+        "pass_epa": 0.1909142236230729,
+        "sack_rate": 0.059880239520958084,
+        "qb_hit_rate": 0.19161676646706588,
+        "rush_n": 104,
+        "rush_epa": -0.03126499484395058,
+        "rush_success": 0.46153846153846156,
+        "neutral_early_n": 111,
+        "neutral_early_proe": -2.751324829217552
+      }
+    },
+    "last3": {
+      "posteam": {
+        "n": 183,
+        "epa": 0.1795633412946079,
+        "success": 0.4972677595628415,
+        "early_n": 144,
+        "early_epa": 0.09356131713603745,
+        "early_success": 0.4652777777777778,
+        "explosive_rate": 0.1366120218579235,
+        "dropbacks": 105,
+        "pass_epa": 0.1907031228394678,
+        "sack_rate": 0.06666666666666667,
+        "qb_hit_rate": 0.17142857142857143,
+        "rush_n": 78,
+        "rush_epa": 0.1645674815226811,
+        "rush_success": 0.5769230769230769,
+        "neutral_early_n": 66,
+        "neutral_early_proe": -1.5052572570063865
+      },
+      "defteam": {
+        "n": 198,
+        "epa": 0.11919623334604226,
+        "success": 0.4898989898989899,
+        "early_n": 155,
+        "early_epa": 0.13675875452464437,
+        "early_success": 0.4967741935483871,
+        "explosive_rate": 0.10606060606060606,
+        "dropbacks": 125,
+        "pass_epa": 0.22233376775983177,
+        "sack_rate": 0.056,
+        "qb_hit_rate": 0.184,
+        "rush_n": 73,
+        "rush_epa": -0.05740913380085759,
+        "rush_success": 0.4794520547945205,
+        "neutral_early_n": 76,
+        "neutral_early_proe": -2.501317035210762
+      }
+    },
+    "scores": [
+      {
+        "date": "2026-09-13",
+        "opponent": "HOU",
+        "for": 36.0,
+        "against": 31.0
+      },
+      {
+        "date": "2026-09-17",
+        "opponent": "DET",
+        "for": 41.0,
+        "against": 31.0
+      },
+      {
+        "date": "2026-09-27",
+        "opponent": "LAC",
+        "for": 24.0,
+        "against": 16.0
+      },
+      {
+        "date": "2026-10-04",
+        "opponent": "NE",
+        "for": 26.0,
+        "against": 29.0
+      }
+    ],
+    "giveaways": 7.0,
+    "takeaways": 5.0,
+    "penalties": 30.0,
+    "situational": {
+      "posteam": {
+        "drives_n": 39,
+        "redzone_drives_n": 16,
+        "redzone_td_rate": 0.6875,
+        "third_down_n": 45.0,
+        "third_down_conversion": 0.5333333333333333,
+        "fg_made": 6,
+        "fg_attempts": 6.0
+      },
+      "defteam": {
+        "drives_n": 40,
+        "redzone_drives_n": 16,
+        "redzone_td_rate": 0.6875,
+        "third_down_n": 54.0,
+        "third_down_conversion": 0.4074074074074074,
+        "fg_made": 5,
+        "fg_attempts": 6.0
+      }
+    },
+    "usage": {
+      "K.Shakir": {
+        "targets": 23,
+        "receiving_yards": 166.0,
+        "rushes": 0,
+        "rushing_yards": 0.0,
+        "games": 4,
+        "per_game": [
+          {
+            "date": "2026-09-13",
+            "targets": 6,
+            "catches": 4.0,
+            "receiving_yards": 40.0
+          },
+          {
+            "date": "2026-09-17",
+            "targets": 6,
+            "catches": 3.0,
+            "receiving_yards": 38.0
+          },
+          {
+            "date": "2026-09-27",
+            "targets": 3,
+            "catches": 1.0,
+            "receiving_yards": 6.0
+          },
+          {
+            "date": "2026-10-04",
+            "targets": 8,
+            "catches": 7.0,
+            "receiving_yards": 82.0
+          }
+        ]
+      },
+      "D.Kincaid": {
+        "targets": 19,
+        "receiving_yards": 270.0,
+        "rushes": 0,
+        "rushing_yards": 0.0,
+        "games": 4,
+        "per_game": [
+          {
+            "date": "2026-09-13",
+            "targets": 6,
+            "catches": 5.0,
+            "receiving_yards": 130.0
+          },
+          {
+            "date": "2026-09-17",
+            "targets": 8,
+            "catches": 7.0,
+            "receiving_yards": 95.0
+          },
+          {
+            "date": "2026-09-27",
+            "targets": 3,
+            "catches": 2.0,
+            "receiving_yards": 38.0
+          },
+          {
+            "date": "2026-10-04",
+            "targets": 2,
+            "catches": 1.0,
+            "receiving_yards": 7.0
+          }
+        ]
+      },
+      "D.Moore": {
+        "targets": 20,
+        "receiving_yards": 178.0,
+        "rushes": 2,
+        "rushing_yards": 5.0,
+        "games": 4,
+        "per_game": [
+          {
+            "date": "2026-09-13",
+            "targets": 8,
+            "catches": 5.0,
+            "receiving_yards": 100.0
+          },
+          {
+            "date": "2026-09-17",
+            "targets": 0,
+            "catches": 0,
+            "receiving_yards": 0.0
+          },
+          {
+            "date": "2026-09-27",
+            "targets": 10,
+            "catches": 6.0,
+            "receiving_yards": 67.0
+          },
+          {
+            "date": "2026-10-04",
+            "targets": 2,
+            "catches": 1.0,
+            "receiving_yards": 11.0
+          }
+        ]
+      },
+      "J.Cook": {
+        "targets": 10,
+        "receiving_yards": 24.0,
+        "rushes": 70,
+        "rushing_yards": 421.0,
+        "games": 4,
+        "per_game": [
+          {
+            "date": "2026-09-13",
+            "targets": 4,
+            "catches": 3.0,
+            "receiving_yards": 12.0
+          },
+          {
+            "date": "2026-09-17",
+            "targets": 3,
+            "catches": 1.0,
+            "receiving_yards": 4.0
+          },
+          {
+            "date": "2026-09-27",
+            "targets": 1,
+            "catches": 0.0,
+            "receiving_yards": 0.0
+          },
+          {
+            "date": "2026-10-04",
+            "targets": 2,
+            "catches": 2.0,
+            "receiving_yards": 8.0
+          }
+        ]
+      }
+    }
+  },
+  "LA": {
+    "season": {
+      "posteam": {
+        "n": 268,
+        "epa": 0.026220627856618852,
+        "success": 0.4701492537313433,
+        "early_n": 212,
+        "early_epa": 0.061895575288563556,
+        "early_success": 0.46226415094339623,
+        "explosive_rate": 0.09701492537313433,
+        "dropbacks": 173,
+        "pass_epa": 0.05799957641662415,
+        "sack_rate": 0.03468208092485549,
+        "qb_hit_rate": 0.1676300578034682,
+        "rush_n": 95,
+        "rush_epa": -0.0316505100473908,
+        "rush_success": 0.4631578947368421,
+        "neutral_early_n": 70,
+        "neutral_early_proe": 4.1941225528717085
+      },
+      "defteam": {
+        "n": 239,
+        "epa": -0.12235848650823401,
+        "success": 0.39330543933054396,
+        "early_n": 180,
+        "early_epa": 0.020017540713241848,
+        "early_success": 0.40555555555555556,
+        "explosive_rate": 0.04602510460251046,
+        "dropbacks": 139,
+        "pass_epa": -0.12891176568191487,
+        "sack_rate": 0.050359712230215826,
+        "qb_hit_rate": 0.1366906474820144,
+        "rush_n": 100,
+        "rush_epa": -0.11324942845681761,
+        "rush_success": 0.37,
+        "neutral_early_n": 79,
+        "neutral_early_proe": 3.2679139436045817
+      }
+    },
+    "last3": {
+      "posteam": {
+        "n": 212,
+        "epa": 0.10305145270549912,
+        "success": 0.4811320754716981,
+        "early_n": 168,
+        "early_epa": 0.09885151263959073,
+        "early_success": 0.4583333333333333,
+        "explosive_rate": 0.10377358490566038,
+        "dropbacks": 144,
+        "pass_epa": 0.14048528560902407,
+        "sack_rate": 0.041666666666666664,
+        "qb_hit_rate": 0.14583333333333334,
+        "rush_n": 68,
+        "rush_epa": 0.023779806556858046,
+        "rush_success": 0.45588235294117646,
+        "neutral_early_n": 51,
+        "neutral_early_proe": 11.360248192852621
+      },
+      "defteam": {
+        "n": 175,
+        "epa": -0.2324845840418261,
+        "success": 0.3314285714285714,
+        "early_n": 128,
+        "early_epa": -0.049553461031791944,
+        "early_success": 0.34375,
+        "explosive_rate": 0.03428571428571429,
+        "dropbacks": 103,
+        "pass_epa": -0.24656215238641194,
+        "sack_rate": 0.06796116504854369,
+        "qb_hit_rate": 0.1650485436893204,
+        "rush_n": 72,
+        "rush_epa": -0.2123458404377658,
+        "rush_success": 0.3055555555555556,
+        "neutral_early_n": 44,
+        "neutral_early_proe": 1.911821961402896
+      }
+    },
+    "scores": [
+      {
+        "date": "2026-09-10",
+        "opponent": "SF",
+        "for": 7.0,
+        "against": 27.0
+      },
+      {
+        "date": "2026-09-21",
+        "opponent": "NYG",
+        "for": 28.0,
+        "against": 6.0
+      },
+      {
+        "date": "2026-09-27",
+        "opponent": "DEN",
+        "for": 26.0,
+        "against": 30.0
+      },
+      {
+        "date": "2026-10-04",
+        "opponent": "PHI",
+        "for": 24.0,
+        "against": 20.0
+      }
+    ],
+    "giveaways": 8.0,
+    "takeaways": 3.0,
+    "penalties": 31.0,
+    "situational": {
+      "posteam": {
+        "drives_n": 42,
+        "redzone_drives_n": 15,
+        "redzone_td_rate": 0.5333333333333333,
+        "third_down_n": 51.0,
+        "third_down_conversion": 0.43137254901960786,
+        "fg_made": 5,
+        "fg_attempts": 7.0
+      },
+      "defteam": {
+        "drives_n": 43,
+        "redzone_drives_n": 12,
+        "redzone_td_rate": 0.5833333333333334,
+        "third_down_n": 51.0,
+        "third_down_conversion": 0.3333333333333333,
+        "fg_made": 6,
+        "fg_attempts": 8.0
+      }
+    },
+    "usage": {
+      "D.Adams": {
+        "targets": 38,
+        "receiving_yards": 390.0,
+        "rushes": 0,
+        "rushing_yards": 0.0,
+        "games": 4,
+        "per_game": [
+          {
+            "date": "2026-09-10",
+            "targets": 6,
+            "catches": 3.0,
+            "receiving_yards": 26.0
+          },
+          {
+            "date": "2026-09-21",
+            "targets": 10,
+            "catches": 8.0,
+            "receiving_yards": 195.0
+          },
+          {
+            "date": "2026-09-27",
+            "targets": 13,
+            "catches": 7.0,
+            "receiving_yards": 137.0
+          },
+          {
+            "date": "2026-10-04",
+            "targets": 9,
+            "catches": 4.0,
+            "receiving_yards": 32.0
+          }
+        ]
+      },
+      "P.Nacua": {
+        "targets": 21,
+        "receiving_yards": 199.0,
+        "rushes": 1,
+        "rushing_yards": 2.0,
+        "games": 2,
+        "per_game": [
+          {
+            "date": "2026-09-10",
+            "targets": 9,
+            "catches": 5.0,
+            "receiving_yards": 74.0
+          },
+          {
+            "date": "2026-10-04",
+            "targets": 12,
+            "catches": 9.0,
+            "receiving_yards": 125.0
+          }
+        ]
+      },
+      "K.Williams": {
+        "targets": 25,
+        "receiving_yards": 173.0,
+        "rushes": 54,
+        "rushing_yards": 294.0,
+        "games": 4,
+        "per_game": [
+          {
+            "date": "2026-09-10",
+            "targets": 3,
+            "catches": 3.0,
+            "receiving_yards": 24.0
+          },
+          {
+            "date": "2026-09-21",
+            "targets": 2,
+            "catches": 2.0,
+            "receiving_yards": 12.0
+          },
+          {
+            "date": "2026-09-27",
+            "targets": 7,
+            "catches": 6.0,
+            "receiving_yards": 70.0
+          },
+          {
+            "date": "2026-10-04",
+            "targets": 13,
+            "catches": 10.0,
+            "receiving_yards": 67.0
+          }
+        ]
+      }
+    }
+  },
+  "provenance": {
+    "source": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2026.csv.gz",
+    "sha256": "0eb4d13e96a9b66689210ebe7ffc64d3598acf6b59b77a211d3eda53eef16c7d",
+    "cutoff": "2026-10-12; weeks 1-4 only",
+    "excluded": "kneels, spikes, deleted plays; EPA requires nonmissing",
+    "pressure_warning": "QB hits are not pressure rate",
+    "adjustment": "unadjusted for opponent",
+    "last5": "unavailable: only 4 season games"
+  }
+}

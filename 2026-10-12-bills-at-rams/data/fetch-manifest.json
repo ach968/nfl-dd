@@ -1,0 +1,92 @@
+[
+  {
+    "name": "nws-hourly.json",
+    "url": "https://api.weather.gov/gridpoints/LOX/151,41/forecast/hourly",
+    "access_utc": "2026-10-12T19:07:22.575123+00:00",
+    "bytes": 162088
+  },
+  {
+    "name": "kalshi-matchup.json",
+    "url": "https://api.elections.kalshi.com/trade-api/v2/events/KXNFLGAME-26OCT12BUFLAR",
+    "access_utc": "2026-10-12T19:07:22.435058+00:00",
+    "bytes": 4982
+  },
+  {
+    "name": "pbp-2026.csv.gz",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2026.csv.gz",
+    "access_utc": "2026-10-12T19:07:23.148775+00:00",
+    "bytes": 5356195
+  },
+  {
+    "name": "poly-book-0-0.json",
+    "url": "https://clob.polymarket.com/book?token_id=62947499320390431651528838662673965097490542171836453297585075709612395925534",
+    "access_utc": "2026-10-12T19:07:22.511287+00:00",
+    "bytes": 2238
+  },
+  {
+    "name": "poly-fee-0-0.json",
+    "url": "https://clob.polymarket.com/fee-rate?token_id=62947499320390431651528838662673965097490542171836453297585075709612395925534",
+    "access_utc": "2026-10-12T19:07:22.384940+00:00",
+    "bytes": 18
+  },
+  {
+    "name": "poly-book-0-1.json",
+    "url": "https://clob.polymarket.com/book?token_id=11185747780899587106799033540417199868833602518954973243319524571966674881114",
+    "access_utc": "2026-10-12T19:07:22.539382+00:00",
+    "bytes": 2238
+  },
+  {
+    "name": "poly-fee-0-1.json",
+    "url": "https://clob.polymarket.com/fee-rate?token_id=11185747780899587106799033540417199868833602518954973243319524571966674881114",
+    "access_utc": "2026-10-12T19:07:22.569487+00:00",
+    "bytes": 18
+  },
+  {
+    "name": "poly-book-1-0.json",
+    "url": "https://clob.polymarket.com/book?token_id=23250308899791469248496736713890367877528653645908077470390716328108040647589",
+    "access_utc": "2026-10-12T19:07:22.748605+00:00",
+    "bytes": 1937
+  },
+  {
+    "name": "poly-fee-1-0.json",
+    "url": "https://clob.polymarket.com/fee-rate?token_id=23250308899791469248496736713890367877528653645908077470390716328108040647589",
+    "access_utc": "2026-10-12T19:07:22.668486+00:00",
+    "bytes": 18
+  },
+  {
+    "name": "poly-book-1-1.json",
+    "url": "https://clob.polymarket.com/book?token_id=87732679008647163528726872230813311501648219217123953628483118558477192701376",
+    "access_utc": "2026-10-12T19:07:22.885990+00:00",
+    "bytes": 1937
+  },
+  {
+    "name": "poly-fee-1-1.json",
+    "url": "https://clob.polymarket.com/fee-rate?token_id=87732679008647163528726872230813311501648219217123953628483118558477192701376",
+    "access_utc": "2026-10-12T19:07:22.711960+00:00",
+    "bytes": 18
+  },
+  {
+    "name": "poly-book-2-0.json",
+    "url": "https://clob.polymarket.com/book?token_id=68571496852575013400663288786764288537635676875741876113187950298241664213272",
+    "access_utc": "2026-10-12T19:07:22.929432+00:00",
+    "bytes": 1940
+  },
+  {
+    "name": "poly-fee-2-0.json",
+    "url": "https://clob.polymarket.com/fee-rate?token_id=68571496852575013400663288786764288537635676875741876113187950298241664213272",
+    "access_utc": "2026-10-12T19:07:22.902259+00:00",
+    "bytes": 18
+  },
+  {
+    "name": "poly-book-2-1.json",
+    "url": "https://clob.polymarket.com/book?token_id=49578580479375782567962386782071585510168147416189089494980495850964560074700",
+    "access_utc": "2026-10-12T19:07:23.136392+00:00",
+    "bytes": 1940
+  },
+  {
+    "name": "poly-fee-2-1.json",
+    "url": "https://clob.polymarket.com/fee-rate?token_id=49578580479375782567962386782071585510168147416189089494980495850964560074700",
+    "access_utc": "2026-10-12T19:07:23.105285+00:00",
+    "bytes": 18
+  }
+]
